@@ -41,16 +41,19 @@ In my free time, I also enjoy:
 ---
 
 ### :fire: My Stats :
-  <div align="center">
-   <h3>GitHub Streak</h3>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=shivesh-anand&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div><br>
-  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivesh-anand&theme=midnight_purple)
+
+<br>
+
 | :fire: Repositories per Language | :chart_with_upwards_trend: Most Commit Language | :alarm_clock: Productive Time (UTC+8) |
 |---------------------------------|-----------------------------------------------|--------------------------------------|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivesh-anand&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivesh-anand&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivesh-anand&theme=midnight_purple&utcOffset=8) |
+<br>
+<div align="center">
+   <h3>GitHub Streak</h3>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=shivesh-anand&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </div><br>
-
 ---
 
 ### :handshake: Connect with Me:

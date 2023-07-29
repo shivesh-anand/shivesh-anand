@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <script src=“https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js”></script><lottie-player src=“https://lottie.host/a472de56-8951-45f7-a6a1-8f9b95f960fe/reu8YWbZeb.json” background=“#FFFFFF” speed=“1” style=“width: 300px; height: 300px” loop controls autoplay direction=“1” mode=“normal”></lottie-player>
+</div>
+
 ### Hi there 👋
 
 <!--

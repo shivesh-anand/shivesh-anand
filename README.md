@@ -42,9 +42,6 @@ In my free time, I also enjoy:
 
 ### :fire: My Stats :
 
-
-### :fire: My Stats :
-
 <table align="center">
   <tr>
     <td align="center" style="border: none;">

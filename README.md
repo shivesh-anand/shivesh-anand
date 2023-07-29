@@ -1,6 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<h1 id="header" align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  ! I'm Shivesh Anand
+</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -42,21 +44,22 @@ In my free time, I also enjoy:
 
 ### :fire: My Stats :
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=shivesh-anand&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivesh-anand" alt="Top Languages"/>
+  <p float="left">
+    <div style="padding: 10px;">
+      <h3>GitHub Streak</h3>
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=shivesh-anand&theme=dark&hide_border=true" alt="GitHub Streak"/>
+    </div>
+    <div style="padding: 10px;">
+      <h3>Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivesh-anand" alt="Top Languages"/>
+    </div>
+  </p>
 </div>
 
 ---
 
 ### :handshake: Connect with Me:
-<div align="center">
-  <a href="https://www.linkedin.com/in/shivesh-anand/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/theshiveshanand">
-    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksForGeeks"/>
-  </a>
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/shivesh-anand/" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
+  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" href="https://www.linkedin.com/in/shivesh-anand/" title="GeeksForGeeks" alt="GeeksForGeeks" width="40" height="40"/>&nbsp;
 </div>

@@ -54,7 +54,11 @@ In my free time, I also enjoy:
 ---
 
 ### :handshake: Connect with Me:
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/shivesh-anand/" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
-  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" href="https://www.linkedin.com/in/shivesh-anand/" title="GeeksForGeeks" alt="GeeksForGeeks" width="40" height="40"/>&nbsp;
+<div align="center">
+  <a href="https://www.linkedin.com/in/shivesh-anand/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/theshiveshanand/">
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" title="GeeksForGeeks" alt="GeeksForGeeks" width="40" height="40"/>
+  </a>
 </div>

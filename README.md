@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&pause=1000&color=7C4AF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=30&pause=1000&color=7C4AF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -32,7 +32,7 @@ In my free time, I also enjoy:
 ### :hammer_and_wrench: Languages and Tools :
  <p align="center"> 
    <a href="https://skillicons.dev">  
-     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,express,mongodb,mysql,nodejs,postman,jquery,c,cpp,java,git,github," alt="Skillicons" /> 
+     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,express,mongodb,nodejs,postman,jquery,c,cpp,java,git,github," alt="Skillicons" /> 
    </a> 
  </p>
 
@@ -40,9 +40,10 @@ In my free time, I also enjoy:
 ---
 
 ### :fire: My Stats :
-  <h3>GitHub Streak</h3>
+  <div align="center">
+   <h3>GitHub Streak</h3>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=shivesh-anand&theme=dark&hide_border=true" alt="GitHub Streak"/>
-
+</div>
 
   
 | :fire: Repositories per Language | :chart_with_upwards_trend: Most Commit Language | :alarm_clock: Productive Time (UTC+8) |

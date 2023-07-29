@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   ! I'm Shivesh Anand
 </h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&pause=1000&color=7C4AF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack)](https://git.io/typing-svg)
 
 <div align="center">
@@ -27,17 +28,14 @@ In my free time, I also enjoy:
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div align="center">
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,express,mongodb,mysql,nodejs,postman,jquery,c,cpp,java,git,github,)](https://skillicons.dev)
-</div>
 
 ---
 
 ### :fire: My Stats :
-<div align="center">
- 
   <h3>GitHub Streak</h3>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=shivesh-anand&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  
 | :fire: Repositories per Language | :chart_with_upwards_trend: Most Commit Language | :alarm_clock: Productive Time (UTC+8) |
 |---------------------------------|-----------------------------------------------|--------------------------------------|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivesh-anand&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivesh-anand&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivesh-anand&theme=midnight_purple&utcOffset=8) |

@@ -47,7 +47,7 @@ In my free time, I also enjoy:
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="http://github-profile-summary-cards.vercel.app">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivesh-anand&theme=midnight_purple" alt="Profile Details"/>
       </a>
@@ -63,10 +63,15 @@ In my free time, I also enjoy:
 
 <br>
 
-<div align="center">
-   <h3>GitHub Streak</h3>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=shivesh-anand&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" style="border: none;">
+      <h3>GitHub Streak</h3>
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=shivesh-anand&theme=dark&hide_border=true" alt="GitHub Streak" style="border: none;"/>
+    </td>
+  </tr>
+</table>
+
 
 
 

@@ -43,8 +43,9 @@ In my free time, I also enjoy:
 ### :fire: My Stats :
 
 
+### :fire: My Stats :
+
 <table align="center">
-  <!-- First Row: 1 Column -->
   <tr>
     <td align="center">
       <a href="http://github-profile-summary-cards.vercel.app">
@@ -52,33 +53,21 @@ In my free time, I also enjoy:
       </a>
     </td>
   </tr>
-  
-  <!-- Second Row: 3 Columns -->
-  <tr>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivesh-anand&theme=midnight_purple" alt="Repositories per Language"/>
-    </td>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivesh-anand&theme=midnight_purple" alt="Most Commit Language"/>
-    </td>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivesh-anand&theme=midnight_purple&utcOffset=8" alt="Productive Time (UTC+8)"/>
-    </td>
-  </tr>
-  
-  <!-- Third Row: 3 Columns -->
-  <tr>
-    <td align="center">
-      <div align="center">
-        <h3>GitHub Streak</h3>
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=shivesh-anand&theme=dark&hide_border=true" alt="GitHub Streak"/>
-      </div>
-    </td>
-    <td align="center" colspan="2">
-      <!-- Empty cell to span across two columns -->
-    </td>
-  </tr>
 </table>
+
+<br>
+
+| :fire: Repositories per Language | :chart_with_upwards_trend: Most Commit Language | :alarm_clock: Productive Time (UTC+8) |
+|---------------------------------|-----------------------------------------------|--------------------------------------|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivesh-anand&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivesh-anand&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivesh-anand&theme=midnight_purple&utcOffset=8) |
+
+<br>
+
+<div align="center">
+   <h3>GitHub Streak</h3>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=shivesh-anand&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</div>
+
 
 
 ---

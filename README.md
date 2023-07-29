@@ -29,12 +29,13 @@ In my free time, I also enjoy:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :  
+### :hammer_and_wrench: Languages and Tools : 
  <p align="center"> 
    <a href="https://skillicons.dev">  
      <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,express,mongodb,nodejs,postman,jquery,c,cpp,java,git,github," alt="Skillicons" /> 
    </a> 
  </p>  
+
 ---
 
 ### :fire: My Stats :
@@ -46,7 +47,7 @@ In my free time, I also enjoy:
 | :fire: Repositories per Language | :chart_with_upwards_trend: Most Commit Language | :alarm_clock: Productive Time (UTC+8) |
 |---------------------------------|-----------------------------------------------|--------------------------------------|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivesh-anand&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivesh-anand&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivesh-anand&theme=midnight_purple&utcOffset=8) |
-</div>  
+</div><br>
 
 ---
 

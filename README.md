@@ -4,7 +4,11 @@
   ! I'm Shivesh Anand
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&pause=1000&color=7C4AF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack)](https://git.io/typing-svg)
+<p align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&pause=1000&color=7C4AF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack" alt="Typing SVG" />
+  </a> 
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -28,8 +32,11 @@ In my free time, I also enjoy:
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,express,mongodb,mysql,nodejs,postman,jquery,c,cpp,java,git,github,)](https://skillicons.dev)
-
+ <p align="center"> 
+   <a href="https://skillicons.dev">  
+     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,express,mongodb,mysql,nodejs,postman,jquery,c,cpp,java,git,github," alt="Skillicons" /> 
+   </a> 
+ </p>
 ---
 
 ### :fire: My Stats :

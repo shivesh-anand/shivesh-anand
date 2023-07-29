@@ -1,3 +1,4 @@
+
 <h1 id="header" align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -29,13 +30,14 @@ In my free time, I also enjoy:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools : 
+### :hammer_and_wrench: Languages and Tools :   
+ <br>
  <p align="center"> 
    <a href="https://skillicons.dev">  
      <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,express,mongodb,nodejs,postman,jquery,c,cpp,java,git,github," alt="Skillicons" /> 
    </a> 
  </p>  
-
+ 
 ---
 
 ### :fire: My Stats :

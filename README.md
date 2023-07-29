@@ -42,7 +42,11 @@ In my free time, I also enjoy:
 
 ### :fire: My Stats :
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivesh-anand&theme=midnight_purple)
+
+| Profile Details |
+| :-------------- |
+| [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivesh-anand&theme=midnight_purple)](http://github-profile-summary-cards.vercel.app) |
+
 
 <br>
 

@@ -2,19 +2,19 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   ! I'm Shivesh Anand
-</h1>
+</h1>  
 
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=30&pause=1000&color=7C4AF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=30&duration=3000&pause=1000&color=7C4AF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack" alt="Typing SVG" /></a>
+</p>  
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div>  
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me :  
 I am a Full Stack Web Developer with expertise in the MERN stack (MongoDB, Express, React, Node.js). Based in India, I'm passionate about building scalable and robust web applications that deliver a great user experience.
 
 - :telescope: I have experience working on front and backend technologies, bringing ideas to life with code.
@@ -29,12 +29,12 @@ In my free time, I also enjoy:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :  
  <p align="center"> 
    <a href="https://skillicons.dev">  
      <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,express,mongodb,nodejs,postman,jquery,c,cpp,java,git,github," alt="Skillicons" /> 
    </a> 
- </p>
+ </p>  
 
  
 ---
@@ -43,13 +43,13 @@ In my free time, I also enjoy:
   <div align="center">
    <h3>GitHub Streak</h3>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=shivesh-anand&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
+</div>  
 
   
 | :fire: Repositories per Language | :chart_with_upwards_trend: Most Commit Language | :alarm_clock: Productive Time (UTC+8) |
 |---------------------------------|-----------------------------------------------|--------------------------------------|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivesh-anand&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivesh-anand&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivesh-anand&theme=midnight_purple&utcOffset=8) |
-</div>
+</div>  
 
 ---
 
